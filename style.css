@@ -1,0 +1,22 @@
+/* ----Font----- */
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Akaya+Telivigala&family=Calistoga&family=Cormorant+Garamond:ital,wght@1,500&family=Elsie+Swash+Caps&family=Fira+Sans&family=Frijole&family=Merienda+One&family=Nosifer&family=PT+Serif:ital@1&family=Playfair+Display:wght@500&family=Rajdhani:wght@300&family=Rubik+Microbe&family=Sail&family=Sansita+Swashed&family=Yusei+Magic&display=swap');
+/* ----colors---- */
+:root{
+  --Bgcolor:#371B58;
+  --lightpurple:#7858A6;
+  --White:#fcfcfc;
+  --Darkpurple:#4C3575
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--Bgcolor);
+    font-family: 'Playfair Display', serif;
+}
