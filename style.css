@@ -19,4 +19,12 @@ body{
     height: 100vh;
     background-color: var(--Bgcolor);
     font-family: 'Playfair Display', serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header{
+  width: 85%;
+  height: 90%;
+  border: 1px groove white;
 }
