@@ -6,6 +6,7 @@
   --lightpurple:#7858A6;
   --White:#fcfcfc;
   --Darkpurple:#4C3575
+  
 }
 
 *{
@@ -53,4 +54,14 @@ header .menu-side h1{
   font-size: 25px;
   margin: 15px 0px 0px 20px;
   font-weight: 500;
+}
+header .menu-side .playlist{
+  margin: 40px 0px 0px 20px;
+}
+header .menu-side .playlist h4{
+  color: #B69BDE;
+  font-size: 15px;
+  font-weight: 300;
+  padding-bottom:10px ;
+  
 }
